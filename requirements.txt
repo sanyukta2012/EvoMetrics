@@ -1,1 +1,6 @@
-
+streamlit
+matplotlib
+biopython
+python-Levenshtein
+scipy
+pandas
